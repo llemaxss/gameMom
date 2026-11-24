@@ -1,0 +1,7 @@
+export const MAIL_FORMS = {
+    CIRCLE: 'CIRCLE',
+    SQUARE: 'SQUARE',
+    RECTANGLE: 'RECTANGLE',
+    TRIANGLE: 'TRIANGLE',
+    HEART: 'HEART'
+};
